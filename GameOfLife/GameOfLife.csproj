@@ -93,7 +93,6 @@
     <Compile Include="ViewModels\VMMain.cs" />
     <Compile Include="ViewModels\VMTablero.cs" />
     <Compile Include="Views\TableroCanvas.cs" />
-    <Compile Include="EscritorVistaTablero.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
