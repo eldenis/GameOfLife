@@ -6,4 +6,4 @@ Used as a proof of concept for the WriteableBitmap class (https://msdn.microsoft
 
 Implemented using WPF with the MVVM pattern.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/y0vk1al21i91vk4b?svg=true)](https://ci.appveyor.com/project/CyMojo/gameoflife)
+[![Build status](https://ci.appveyor.com/api/projects/status/y0vk1al21i91vk4b?svg=true)](https://ci.appveyor.com/project/elDenis/gameoflife)
